@@ -23,7 +23,7 @@ body{
 height: 100px;
 width: 100px;
 border-radius: 5px;
-box-shadow: 0px 0px 2px #848484;
+box-shadow: 0px 0px 2px #2e0101;
 }
 
 .form-group{
@@ -37,7 +37,7 @@ margin-bottom: 25px;
     padding-left: 54px;
 }
 .form-group::before{
-    font-family: 'Font Awesome\ 5 Free';
+    font-family: 'FontAwesome\ 5 Free';
     content: "\f007";
     position: absolute;
     font-size: 22px;
@@ -76,5 +76,5 @@ button{
 }
 
 .forgot a {
-    color: #c2fbfe;
+    color: #c2fbfe; 
 }
